@@ -418,7 +418,7 @@ export default function App() {
         <Typography gutterBottom>Google Material Design is the standard for modern applications. It is published by Google for use in their applications and all Android apps.</Typography>
         <Typography gutterBottom>BoxIcons is quite popular for web design.</Typography>
         <Typography gutterBottom>System UIcons is meant for operating systems and looks very clean.</Typography>
-        <Typography>Pixel Icon and Pixelarticons have a pixel art feel. They look great and fit the theme, but pixelation is not clear for some users and the pictures don't often match the modern icons users expect.</Typography>
+        <Typography gutterBottom>Pixel Icon and Pixelarticons have a pixel art feel. They look great and fit the theme, but pixelation is not clear for some users and the pictures don't often match the modern icons users expect.</Typography>
         <Typography>iconsmind is here for icons of keyboard keys.</Typography>
       </Paper>
       <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', my: 4 }}>
